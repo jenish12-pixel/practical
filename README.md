@@ -1,0 +1,2 @@
+# practical
+Training for basics
